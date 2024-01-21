@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "pruebafirejs",
+    "todolist": "pruebafirejs"
+  },
+  "targets": {},
+  "etags": {}
+}
