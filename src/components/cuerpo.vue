@@ -23,7 +23,7 @@ let col;
 
 
 let que;
-if (usuario.email !== "eliasmouimi2016@gmail.com") {
+if (usuario.email !== "admin@gmail.com") {
   que = query(col, where("uid", "==", usuario.uid));
   console.log(que)
 }else{
